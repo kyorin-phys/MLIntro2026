@@ -57,6 +57,7 @@
 [翻訳された書籍](https://www.amazon.co.jp/dp/B07GQV1X76)
 * [pattern recognition and machine learning](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) Bishop
 * [Deep Learning: Foundations and Concepts](https://www.bishopbook.com/) Bishop & Bishop (2024) PRMLの後継書。Web版は無料で閲覧可
+* [Deep Kearning with Python](https://deepleaserningwithpython.io/) Chollet  翻訳本は図書館にある
 
 ## データセット
 
