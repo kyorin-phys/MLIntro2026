@@ -23,6 +23,7 @@
 [2022年ワークショップ](https://github.com/TMDU-AI/workshop2022)
 2023年版はColab向け、2022年版はPC用
 * [医療とAIはじめの一歩](https://www.yodosha.co.jp/yodobook/book/9784758124188/) 上の内容を書籍化したもの。図書館にあり。
+* [Python機械学習スタートブック@茨城大](https://ml.kano.ac/) 書籍の連動サイト。Python入門から深層学習まで、解説・コード・演習解答があり、ブラウザ上でも試せる
 * [機械学習帳@東工大（現：東京科学大）](https://chokkan.github.io/mlnote/index.html) 難しいが数理をきちんと追いたい人には有用
 
 ### 図書館にある書籍
