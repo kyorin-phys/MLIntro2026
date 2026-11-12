@@ -36,5 +36,6 @@
 
 * [PyRadiomics 入門](appendix/radiomics_intro.ipynb) 医用画像 (CT・MRI) から特徴量を取り出し、機械学習につなげる
 * [XGBoost 入門](appendix/xgboost_intro.ipynb) 決定木・ランダムフォレストから XGBoost へ。表形式データの分類
+* [MedMNIST でどこまでできるか](appendix/medmnist_advanced.ipynb) 第4回の胸部X線分類を、CNN・画像サイズ・データ拡張で改善する
 
 [参考サイト](./sites.md)
